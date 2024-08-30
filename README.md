@@ -1,4 +1,4 @@
-EADME: How to Use the Social Media Analysis Code
+README: How to Use the Social Media Analysis Code
 Overview
 
 This repository contains code for analyzing consumer perceptions and brand engagement related to Fiat Dolcevita and Mini Cooper in the UK market. The analysis primarily focuses on understanding public sentiment, identifying key topics of discussion, and comparing the branding effectiveness of Fiat Dolcevita with its competitor, Mini Cooper. The project includes several key analyses, each targeting different aspects of the social media landscape.
